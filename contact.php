@@ -76,7 +76,7 @@ if(isset($_POST['submit'])){
                     <li><a href="https://twitter.com/omerwwazap">Twitter</a></li>
                     <li><a href="https://www.linkedin.com/in/leventdurdali">Linkedin</a></li>
                     <li><a href="https://github.com/omerwwazap">Github</a></li>
-                    <li><a href="http://codepen.io/omerwwazap">Codepen</a></li>
+                    <li><a href="LeventDurdaliCVFIN.pdf" target="_blank">CV PDF File</a></li>
                     <li><a href="mailto:levent07@live.com">Contact</a></li>
                 </ul>
                 <<div class="footer">
