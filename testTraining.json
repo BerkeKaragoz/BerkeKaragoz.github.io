@@ -1,0 +1,43 @@
+{
+    "name": "Test Training",
+    "questions": [
+        {
+            "answers": [
+                "ANSWER_A",
+                "ANSWER_B",
+                "ANSWER_C",
+                "ANSWER_D"
+            ],
+            "popUpTime": 5,
+            "questionContent": "EMPTY_QUESTION",
+            "correctAnswerIndex": 0
+        },
+        {
+            "answers": [
+                "ANSWER_A",
+                "ANSWER_B",
+                "ANSWER_C",
+                "ANSWER_D"
+            ],
+            "popUpTime": 10,
+            "questionContent": "EMPTY_QUESTION",
+            "correctAnswerIndex": 0
+        },
+        {
+            "answers": [
+                "ANSWER_A",
+                "ANSWER_B",
+                "ANSWER_C",
+                "ANSWER_D"
+            ],
+            "popUpTime": -1,
+            "questionContent": "EMPTY_QUESTION",
+            "correctAnswerIndex": 0
+        }
+    ],
+    "trainingId": "1",
+    "trainingPath": "/Trainings/1_Flat_Video/",
+    "trainingType": "Flat_Video",
+    "sourceVideoUrl": "URL_EMPTY",
+    "sourceVideoFileName": "videoSource_1"
+}
