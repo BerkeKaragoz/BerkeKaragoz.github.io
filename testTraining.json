@@ -38,6 +38,6 @@
     "trainingId": "1",
     "trainingPath": "/Trainings/1_Flat_Video/",
     "trainingType": "Flat_Video",
-    "sourceVideoUrl": "URL_EMPTY",
+    "sourceVideoUrl": "https://berkekaragoz.github.io/video360.mp4",
     "sourceVideoFileName": "videoSource_1"
 }
