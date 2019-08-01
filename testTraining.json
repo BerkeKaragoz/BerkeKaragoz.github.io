@@ -36,8 +36,8 @@
         }
     ],
     "trainingId": "1",
-    "trainingPath": "/Trainings/1_Flat_Video/",
-    "trainingType": "Flat_Video",
+    "trainingPath": "/Trainings/1_Video_Flat/",
+    "trainingType": "Video_Flat",
     "sourceVideoUrl": "https://berkekaragoz.github.io/video360.mp4",
     "sourceVideoFileName": "videoSource_1"
 }
