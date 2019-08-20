@@ -1,38 +1,38 @@
 {
-    "name": "Test Training",
+    "name": "Dataport Anlatımı",
     "questions": [
         {
             "answers": [
-                "ANSWER_A",
-                "ANSWER_B",
-                "ANSWER_C",
-                "ANSWER_D"
+                "Adres çubuğuna 'dataport.com' yazarak",
+                "Adres çubuğuna 'datamarket.com.tr/portal' yazarak",
+                "Adres çubuğuna 'dataport' yazarak",
+                "Adres çubuğuna 'dataportal' yazarak"
             ],
-            "popUpTime": 5,
-            "questionContent": "EMPTY_QUESTION",
+            "popUpTime": 18,
+            "questionContent": "Portalimize nasıl ulaşırız?",
+            "correctAnswerIndex": 2
+        },
+        {
+            "answers": [
+                "Dataport'tan 'İnsan Kaynakları' dosyasına girerek",
+                "datamarket.com.tr üzerinden 'Videolar' kısmından",
+                "Dataport'tan 'Uygulamalar -> Eğitim' kısmından",
+                "datamarket.com.tr üzerinden 'İnsan Kaynakları' dosyasına girerek"
+            ],
+            "popUpTime": 73,
+            "questionContent": "Eğitim videolarımıza nasıl ulaşırız?",
             "correctAnswerIndex": 0
         },
         {
             "answers": [
-                "ANSWER_A",
-                "ANSWER_B",
-                "ANSWER_C",
-                "ANSWER_D"
+                "Hedefler",
+                "İnsan Kaynakları Formları",
+                "İnsan Kaynakları Dosyası",
+                "Yeni Çalışma Arkadaşları"
             ],
-            "popUpTime": 10,
-            "questionContent": "EMPTY_QUESTION",
-            "correctAnswerIndex": 0
-        },
-        {
-            "answers": [
-                "ANSWER_A",
-                "ANSWER_B",
-                "ANSWER_C",
-                "ANSWER_D"
-            ],
-            "popUpTime": -1,
-            "questionContent": "EMPTY_QUESTION",
-            "correctAnswerIndex": 0
+            "popUpTime": 112,
+            "questionContent": "Dataport anasayfasından direkt olarak hangisine ulaşamayız?",
+            "correctAnswerIndex": 1
         }
     ],
     "trainingId": "1",
