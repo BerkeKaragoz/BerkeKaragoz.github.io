@@ -9,29 +9,29 @@
                 "Adres çubuğuna 'dataportal' yazarak"
             ],
             "popUpTime": 18,
-            "questionContent": "Portalimize nasıl ulaşırız?",
+            "questionContent": "Portalimize nasil ulasiriz?",
             "correctAnswerIndex": 2
         },
         {
             "answers": [
-                "Dataport'tan 'İnsan Kaynakları' dosyasına girerek",
-                "datamarket.com.tr üzerinden 'Videolar' kısmından",
-                "Dataport'tan 'Uygulamalar -> Eğitim' kısmından",
-                "datamarket.com.tr üzerinden 'İnsan Kaynakları' dosyasına girerek"
+                "Dataport'tan 'İnsan Kaynaklari' dosyasına girerek",
+                "datamarket.com.tr üzerinden 'Videolar' kismindan",
+                "Dataport'tan 'Uygulamalar -> Eğitim' kismindan",
+                "datamarket.com.tr üzerinden 'İnsan Kaynaklari' dosyasina girerek"
             ],
             "popUpTime": 73,
-            "questionContent": "Eğitim videolarımıza nasıl ulaşırız?",
+            "questionContent": "Eğitim videolarimiza nasil ulasiriz?",
             "correctAnswerIndex": 0
         },
         {
             "answers": [
                 "Hedefler",
-                "İnsan Kaynakları Formları",
-                "İnsan Kaynakları Dosyası",
-                "Yeni Çalışma Arkadaşları"
+                "İnsan Kaynaklari Formlari",
+                "İnsan Kaynaklari Dosyasi",
+                "Yeni Çalisma Arkadaşlari"
             ],
             "popUpTime": 112,
-            "questionContent": "Dataport anasayfasından direkt olarak hangisine ulaşamayız?",
+            "questionContent": "Dataport anasayfasindan direkt olarak hangisine ulasamayiz?",
             "correctAnswerIndex": 1
         }
     ],
